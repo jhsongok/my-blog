@@ -1,0 +1,15 @@
+# Claude Code 개인 설정 (권한 등)
+.claude/settings.local.json
+
+# OS가 만드는 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터
+.vscode/
+.idea/
+
+# 혹시 생길 수 있는 Node 산출물
+node_modules/
+npm-debug.log*

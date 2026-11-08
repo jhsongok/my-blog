@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "today-i-learned",
+    "title": "오늘 배운 것",
+    "date": "2026-11-08",
+    "tags": [
+      "개발",
+      "배움"
+    ],
+    "description": "클로드 코드로 블로그를 만들면서 알게 된 HTML, CSS, JavaScript의 역할."
+  },
+  {
+    "slug": "welcome",
+    "title": "블로그를 시작합니다",
+    "date": "2026-11-08",
+    "tags": [
+      "일상",
+      "블로그"
+    ],
+    "description": "마크다운 파일만으로 운영하는 작은 블로그를 소개합니다."
+  },
+  {
+    "slug": "markdown-guide",
+    "title": "마크다운 문법 한눈에 보기",
+    "date": "2026-11-05",
+    "tags": [
+      "마크다운",
+      "가이드"
+    ],
+    "description": "이 블로그에서 쓸 수 있는 마크다운 문법을 예시와 함께 정리했습니다."
+  },
+  {
+    "slug": "code-and-tables",
+    "title": "코드 블록과 표 다루기",
+    "date": "2026-11-01",
+    "tags": [
+      "개발",
+      "마크다운"
+    ],
+    "description": "긴 코드와 넓은 표가 모바일에서도 깨지지 않도록 만든 방법."
+  }
+]
